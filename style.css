@@ -7,7 +7,9 @@
 }
 
 .grid-item {
-  background-color: #3498db;
+  background-image: url(https://images.unsplash.com/photo-1716927856017-ec6dd4e4021e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3fHx8ZW58MHx8fHx8);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 10px;
   text-align: center;
   font-size: 16px;
